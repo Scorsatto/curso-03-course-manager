@@ -2,7 +2,7 @@
 
 Disponível em https://web.digitalinnovation.one/
 
-Replicação de código referente as aulas.
+Replicação de código referente as aulas (Gerenciador de cursos desenvolvido em angular (front-end)).
 
 
 
